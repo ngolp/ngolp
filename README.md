@@ -1,6 +1,7 @@
 ### Hi there! 👋
-### I'm Nicholas,
+### I'm Nicholas (I go by Nick),
   - I'm currently studying computer science at Worcester Polytechnic Institute and pursuing a concentration in cybersecurity. 🖥️
-  - Proficient in C, C++, C#, Java, Typescript, Kotlin, R, Racket, and MATLAB. 🧑‍💻
-  - Here you'll find notable projects that I've worked on for classes. 📓
-  - You'll also find some of my personal projects using the Unity game engine (and more). 🕹️
+  - Proficient in C, Go, Python, Java, x86 Assembly, Kotlin, C#, Typescript, R, Racket, and MATLAB. C, Go, and x86 Assembly (not a joke) are my favorites. 🧑‍💻
+  - I like to use GDB (and GEF), Pwntools, and Ghidra.
+  - I'm into binary exploitation, C programming, and firmware development. 
+  - Here you'll find notable projects that I've worked on for classes, as well as some of my personal projects. 📓
